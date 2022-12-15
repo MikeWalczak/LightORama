@@ -1,4 +1,4 @@
-module github.com/MikeWalczak/LightORama/pkg/lor
+module github.com/MikeWalczak/LightORama
 
 go 1.13
 
