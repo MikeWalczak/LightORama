@@ -1,4 +1,4 @@
-module github.com/Cryptkeeper/go-lightorama
+module github.com/MikeWalczak/LightORama
 
 go 1.13
 
