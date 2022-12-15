@@ -1,4 +1,4 @@
-module github.com/Cryptkeeper/go-lightorama
+module github.com/MikeWalczak/LightORama/pkg/lor
 
 go 1.13
 
